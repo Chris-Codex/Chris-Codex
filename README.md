@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am currently involved in building a Taxi Ride app ...<br>👯 I'll love to collaborate with designers and developers in creating well-optimized and problem-solving apps...<br>🤔 I’m looking for frontend development roles.<br>💬 Ask me about anything.<br>📫 How to reach me: Send a mail to christianiheacho1@outlook.com<br>😄 Pronouns: He/him.<br>⚡ Fun fact: I love networking and sharing new technology trends with friends.
+🌱 I am currently involved in building API Aggregator App, E-commerce App and Taxi Ride App ...<br>👯 I'll love to collaborate with designers and developers in creating well-optimized and problem-solving apps...<br>🤔 I’m looking for frontend development roles.<br>💬 Ask me about anything.<br>📫 How to reach me: Send a mail to christianiheacho1@outlook.com<br>😄 Pronouns: He/him.<br>⚡ Fun fact: I love networking and sharing new technology trends with friends.
 
 
 ## 🌐 Socials:
